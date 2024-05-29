@@ -36,3 +36,5 @@ template/local.properties
 template/*.iml
 template/*.hprof
 template/.cxx/
+template/yarn.lock/
+template/ios/Pods.lock/
