@@ -1,0 +1,28 @@
+{
+  "name": "react-native-mvvm-template",
+  "version": "1.0.0",
+  "description": "MVVM template for React Native",
+  "homepage": "https://github.com/dangttp97/react-native-mvvm-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangttp97/react-native-mvvm-template"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "mvvm",
+    "mvvm-template"
+  ],
+  "author": "Tran Thanh Phuong Dang <phuongdang012@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "scripts": {
+    "generate:screens": "node scripts/generator-scripts.js screens",
+    "generate:components": "node scripts/generator-scripts.js components"
+  }
+}

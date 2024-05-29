@@ -1,0 +1,7 @@
+// generated from template
+
+export const ${name}Model = {
+  loading: true,
+  arrayData: [],
+  objectData: {}
+};

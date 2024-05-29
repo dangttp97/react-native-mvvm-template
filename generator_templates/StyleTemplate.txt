@@ -1,0 +1,12 @@
+// generated from template
+
+import {createStyle} from "@theme";
+
+export const ${name}Styles = ({props}: any) => createStyle(props)(({colors, font})({
+  container: (props) => {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: props.white ? colors.white : colors.black
+  },
+}));
