@@ -18,6 +18,8 @@
   "author": "Tran Thanh Phuong Dang <phuongdang012@gmail.com>",
   "license": "MIT",
   "files": [
+    "generator_templates",
+    "scripts",
     "template",
     "template.config.js"
   ],
